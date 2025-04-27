@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9e63b2bb-baa0-4124-8acc-13ca6f43ebd2)# Smart Water Level Monitoring System
+# Smart Water Level Monitoring System
 
 **Academic Project**  
 > This project was developed in collaboration with my colleagues as part of an academic project at ISIMM Institute.
