@@ -58,10 +58,6 @@ The system also controls a water pump automatically depending on the water level
 
 ---
 
-
-## Circuit Assembly
-![image](https://github.com/user-attachments/assets/d5c5d33a-beac-4d21-b26b-339738783758)
-
 ## Water Level Status and Actions
 ![image](https://github.com/user-attachments/assets/bedb3d4f-8ded-47b0-be20-c7129dc07981)
 
