@@ -83,7 +83,6 @@ The blue LED lights up, and the LCD shows the message "Level: Medium; Motor is O
 * High Level
 When the water level is high ("High"), the user must activate the pump by pressing the control button.
 The buzzer starts emitting sound signals, the green LED lights up, and the LCD shows "Level: High; Motor is OFF".
-Meanwhile, the water level is displayed on the control interface.
 ![image](https://github.com/user-attachments/assets/995216c9-37ae-4a82-9e19-1e29250599a8)
 ![image](https://github.com/user-attachments/assets/b4c3e19e-b92a-42b8-8565-023989974fca)
 
