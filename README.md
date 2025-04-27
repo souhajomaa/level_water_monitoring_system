@@ -1,7 +1,7 @@
 # Smart Water Level Monitoring System
 
 **Academic Project**  
-> This project was developed in collaboration with my colleagues as part of an academic project at ISIMM Institute.
+> This project was developed in collaboration with my colleagues as part of an academic project at ISIMM Institute in 2023.
 
 ## Project Description
 This system is designed to monitor the water level in a tank using an ultrasonic sensor and ESP32. It provides real-time feedback through an LCD display and sends updates via the Blynk IoT platform.  
