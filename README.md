@@ -60,7 +60,8 @@ The system also controls a water pump automatically depending on the water level
 
 
 ## Circuit Assembly
-![image](https://github.com/user-attachments/assets/f9a17c3f-7a0e-4cfd-a500-8446ef58f011)
+![image](https://github.com/user-attachments/assets/d5c5d33a-beac-4d21-b26b-339738783758)
+
 ## Water Level Status and Actions
 ![image](https://github.com/user-attachments/assets/bedb3d4f-8ded-47b0-be20-c7129dc07981)
 
@@ -69,14 +70,13 @@ During the system operation, different actions are triggered depending on the de
 * Low Level
 When the water level is low ("Low"), the user activates the water pump by pressing the control button.
 The red LED turns on, and the LCD displays the message "Level: Low; Motor is ON".
-At the same time, the current water level is displayed on the monitoring interface
+
  ![image](https://github.com/user-attachments/assets/7c0f403e-5f07-47be-86a1-e537fc89354d)
  ![image](https://github.com/user-attachments/assets/d01a0ea1-5e0d-4b97-afa3-8d9915d08b04)
 
 * Medium Level
 When the water level is medium ("Medium"), the user continues to operate the water pump by pressing the control button.
 The blue LED lights up, and the LCD shows the message "Level: Medium; Motor is ON".
-Simultaneously, the water level is updated on the monitoring interface.
 ![image](https://github.com/user-attachments/assets/7cc335c0-ce1d-48c1-a3ec-a6de1dcc7718)
 ![image](https://github.com/user-attachments/assets/3de784e4-193b-4b90-8a98-4dd5b89e418a)
 
