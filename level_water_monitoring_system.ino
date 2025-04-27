@@ -3,16 +3,14 @@
 #include <WiFi.h>
 //#define BLYNK_PRINT Serial
 #include <BlynkSimpleEsp32.h>
-#define WIFI_SSID ""// ISIMM-enseignants !IsImm@20Ens23!
-#define WIFI_PASSWORD ""
-#define BLYNK_TEMPLATE_ID ""
+#define WIFI_SSID ""// put your wifi ssid here
+#define WIFI_PASSWORD "" // put your wifi password here
+#define BLYNK_TEMPLATE_ID "" // put your blynk template id here
 #define BLYNK_TEMPLATE_NAME "Système de surveillance du niveau deau"
 
 LiquidCrystal_I2C_Hangul lcd(0x27, 16, 2);
 
-char auth[] = "";
-char ssid[] = "";
-char pass[] = "";
+
 
 BlynkTimer timer;
 
