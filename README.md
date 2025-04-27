@@ -86,4 +86,6 @@ The buzzer starts emitting sound signals, the green LED lights up, and the LCD s
 ![image](https://github.com/user-attachments/assets/995216c9-37ae-4a82-9e19-1e29250599a8)
 ![image](https://github.com/user-attachments/assets/b4c3e19e-b92a-42b8-8565-023989974fca)
 
+The prototype demonstrated a functional smart water monitoring system capable of alerting and taking action based on the water level, confirming the success of the project.
+
 
